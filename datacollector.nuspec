@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.Paypal.DataCollector</id>
+        <version>2.5.3</version>
+        <description>Xamarin Binding Library - Paypal DataCollector</description>
+        <authors>Vu Duc Tuyen</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - Paypal DataCollector</title>
+        <releaseNotes>Paypal DataCollector v2.5.3</releaseNotes>
+        <summary>Xamarin Binding Library - Paypal DataCollector</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/xand-paypal-datacollector</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.Android, paypal, datacollector, data-collector</tags>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.Paypal.DataCollector/bin/Release/Naxam.Paypal.DataCollector.dll" target="lib/MonoAndroid10/Naxam.Paypal.DataCollector.dll" />
+    </files>
+</package>
