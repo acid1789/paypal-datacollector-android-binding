@@ -3,13 +3,13 @@
     <metadata>
         <!-- Required elements-->
         <id>Naxam.Paypal.DataCollector</id>
-        <version>2.5.3</version>
+        <version>2.6.2</version>
         <description>Xamarin Binding Library - Paypal DataCollector</description>
         <authors>Vu Duc Tuyen</authors>
         <owners>NAXAM CO.,LTD</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>Naxam - Paypal DataCollector</title>
-        <releaseNotes>Paypal DataCollector v2.5.3</releaseNotes>
+        <releaseNotes>Paypal DataCollector v2.6.2</releaseNotes>
         <summary>Xamarin Binding Library - Paypal DataCollector</summary>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/NAXAM/xand-paypal-datacollector</projectUrl>
